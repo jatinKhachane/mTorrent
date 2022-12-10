@@ -1,4 +1,4 @@
-public class ClientAsServer {
+public class asServer {
     
     void* asServer(void *)
     {
