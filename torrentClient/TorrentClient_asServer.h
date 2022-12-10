@@ -1,4 +1,4 @@
-public class asServer {
+public class TorrentClient_asServer {
     
     void* asServer(void *)
     {
