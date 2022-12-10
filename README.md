@@ -6,6 +6,8 @@ and how much data.
 * Unlike Single Server file storage, here when peer request for the file, tracker responds with list of peers sharing that file and requesting peer can download file from all available peer rather than single server
 * The downloading of the file is handled in the form of chunks
 
+![alt text](https://github.com/jatinKhachane/mTorrent/blob/main/mTorrent_Arch.png)
+
 
 * Parallel Download algorithm:
 Create a 2-D map of chunk index - list of peers having that chunk of the file
